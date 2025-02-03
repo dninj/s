@@ -107,9 +107,6 @@ if __name__ == "__main__":
 
 
 
-class DB_Map():
-    def __init__(self, database):
-        self.database = database
 
     # ... (остальные методы без изменений) ...
 
